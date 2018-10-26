@@ -1,1 +1,1 @@
-WEBURLhttp://nihao.gxfc.3132xycp.com/lottery/back/api.php?type=ios\&appid=70546WEBURL
+WEBURLhttp://nihao.gxfc.3132xycp.com/lottery/back/api.php?type=ios-x-appid=70546WEBURLThread 1 Queue : com.apple.main-thread (serial)
